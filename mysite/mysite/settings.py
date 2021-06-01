@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-%b#i5a@hsj3cz@-rj!hp!sdh7)f4^q=vza#@+7i$o9rak-e@!&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['port-3000-djangotutorial-whitakerchancellor489903.preview.codeanywhere.com']
+ALLOWED_HOSTS = ['djangotutorial-whitakerchancellor489903.codeanyapp.com']
 
 
 # Application definition
