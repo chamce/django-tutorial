@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['port-3000-djangotutorial-whitakerchancellor489903.preview.code
 # Application definition
 
 INSTALLED_APPS = [
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
